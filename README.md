@@ -2,29 +2,23 @@
 Collection of machine learning and AI projects built with Python and scikit-learn.
 # ML Portfolio
 
-Collection of machine learning and AI projects.
+Collection of machine learning and AI projects focused on predictive analytics, classification models, and data preprocessing.
 
 ## Projects
 
 ### Student Dropout Prediction
-Machine learning model for predicting student dropout risk.
-
-Tech:
-- Python
-- pandas
-- scikit-learn
-
----
+Machine learning project for predicting student dropout risk using classification models, feature engineering, and exploratory data analysis.
 
 ### Athlete Injury Classification
-KNN classification model for injury prediction.
-
-Tech:
-- Python
-- scikit-learn
-- matplotlib
-
----
+KNN-based classification model for predicting athlete injury risk using sports performance and health-related data.
 
 ### ML Preprocessing Pipeline
-Data cleaning and preprocessing workflow for machine learning datasets.
+Data preprocessing and feature engineering workflow for preparing structured datasets for machine learning models.
+
+## Technologies
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- matplotlib
+- seaborn
